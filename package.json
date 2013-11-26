@@ -1,0 +1,29 @@
+{
+  "name": "jkme3-site",
+  "version": "0.0.0",
+  "description": "my site",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "~1.1.1",
+    "domready": "~0.2.13",
+    "glance": "~0.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jarofghosts/jkme3.git"
+  },
+  "keywords": [
+    "personal",
+    "website"
+  ],
+  "author": "jesse keane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/jkme3/issues"
+  },
+  "homepage": "https://github.com/jarofghosts/jkme3"
+}
