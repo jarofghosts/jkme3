@@ -2,7 +2,7 @@ var glance = require('glance')
 
 glance
   .createGlance({
-    port: 99660,
+    port: 9966,
     indexing: true,
     indices: ['index.html'],
     verbose: true
